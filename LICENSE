@@ -1,0 +1,32 @@
+Educational Use License
+
+Copyright (c) 2026 theloyaltrojan
+
+Permission is granted to any person obtaining a copy of this software and
+associated documentation files (the "Software") to use, copy, modify, and
+distribute the Software for the following purposes only:
+
+  1. Personal study of operating-system input APIs, event taps, and
+     network programming.
+  2. Defensive security research, including the development of
+     detections, mitigations, or countermeasures.
+  3. Authorized security testing of systems the user owns or has explicit
+     written permission from the system owner to instrument.
+
+Any use of the Software to capture keystrokes, credentials, or other input
+from a system the user does not own and does not have documented, prior
+authorization to instrument is expressly prohibited by this license, and may
+constitute a violation of computer-misuse, wiretap, or privacy laws in the
+user's jurisdiction. The user is solely responsible for ensuring their use
+complies with all applicable laws.
+
+Redistributions of the Software, in source or binary form, must retain this
+license text and the disclaimer below.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
