@@ -1,0 +1,3 @@
+*.log
+captured_keys.log
+.DS_Store
